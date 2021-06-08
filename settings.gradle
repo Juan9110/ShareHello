@@ -1,0 +1,2 @@
+rootProject.name = "ShareHello"
+include ':app'
